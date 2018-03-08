@@ -1,0 +1,1 @@
+<?php if(!class_exists('Rain\Tpl')){exit;}?><li><a href="/categories/18">Massageadores</a></li><li><a href="/categories/15">Poltronas Novas</a></li><li><a href="/categories/16">Poltronas Seminovas</a></li>
